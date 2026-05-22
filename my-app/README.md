@@ -65,19 +65,7 @@ npm run build
 npm start
 ```
 
-## Demo Accounts
 
-| Email | Password | Role |
-|---|---|---|
-| admin@techsoft.ro | admin123 | Administrator |
-| hr@techsoft.ro | hr123 | HR & Admin |
-| manager@techsoft.ro | manager123 | Manager |
-| financiar@techsoft.ro | fin123 | Financiar |
-| ion.popescu@techsoft.ro | angajat123 | Angajat |
-| maria.ionescu@techsoft.ro | angajat123 | Angajat |
-| alex.georgescu@techsoft.ro | angajat123 | Angajat |
-
-> These accounts are for development only. Remove or change credentials before deploying to production.
 
 ## Project Structure
 
